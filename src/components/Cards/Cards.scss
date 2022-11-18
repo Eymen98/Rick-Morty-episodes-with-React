@@ -1,0 +1,27 @@
+
+
+.card{
+    border: 2px solid #0b5ed7;
+    border-radius: 10px;
+    transition:  background-color ;
+    text-Decoration:"none"
+}
+
+.card:hover{
+    background-color: #7cb2f8;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.content{
+    padding: 10px;
+
+}
+
+.badge{
+    top: 10px;
+    right: 20px;
+    font-size: 17px;
+}
