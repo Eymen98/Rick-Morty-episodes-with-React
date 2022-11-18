@@ -2,7 +2,7 @@
 Rick&amp;Morty episodes with React framework
 
 
-#### In this project, the Rick and Morty sections are called using the API's REST methods. Episodes contain characters, which can be filtered by status, genre, and gender, as well as accessed from the search bar and characters have detail pages.
+#### In this project, Rick and Morty episodes are called using REST methods of API. Episodes have characters, these characters can be filtered by status, species and gender, also can access character from search bar and characters have detail pages.
 
 
 # Topics covered in this project are:
